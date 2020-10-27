@@ -914,3 +914,703 @@ Reason: (2) ST-Link DLL error.
 
 !ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-25 13:07:52.307
 !MESSAGE Unloading product manager
+!SESSION 2020-10-25 15:11:17.355 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=tr_TR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-25 15:11:18.965
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-25 15:11:18.990
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2020-10-25 15:11:21.719
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-10-25 15:11:21.721
+!MESSAGE Workspace: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3
+
+!ENTRY org.eclipse.jface 2 0 2020-10-25 15:11:25.816
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-25 15:11:25.816
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@13bc3e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@aa678d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-10-25 15:11:35.508
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-10-25 15:11:35.721
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-25 15:11:35.900
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bedri'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 4 0 2020-10-25 15:16:34.800
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'Proxy Otomatik Yapýlandýrma URL'si bulunamadý.
+' #12180.
+
+!ENTRY org.eclipse.core.net 4 0 2020-10-25 17:19:27.155
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Proxy otomatik yapýlandýrma komut dosyasý karþýdan yüklenemedi
+' #12167.
+
+!ENTRY org.eclipse.cdt.dsf.ui 2 0 2020-10-26 12:01:20.476
+!MESSAGE Unable to locate file: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\004_1_REG\335STER_BUTTON_CONTROL\src\main.c
+
+!ENTRY org.eclipse.cdt.dsf.ui 2 0 2020-10-26 12:01:23.426
+!MESSAGE Unable to locate file: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\004_1_REG\335STER_BUTTON_CONTROL\src\stm32f4xx_it.c
+
+!ENTRY org.eclipse.cdt.dsf.ui 2 0 2020-10-26 12:02:56.270
+!MESSAGE Unable to locate file: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\004_1_REG\335STER_BUTTON_CONTROL\src\main.c
+
+!ENTRY org.eclipse.cdt.dsf.ui 2 0 2020-10-26 12:02:59.544
+!MESSAGE Unable to locate file: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\004_1_REG\335STER_BUTTON_CONTROL\src\stm32f4xx_it.c
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:05:05.017
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@df733e): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:05:05.017
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:05:05.038
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@402065): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:05:05.038
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:06:07.280
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@7b6a9c): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:06:07.280
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:06:07.303
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@a3fc6): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:06:07.303
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:10:50.169
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@eb3526): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:10:50.169
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:10:50.194
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@153f082): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:10:50.194
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:14:08.084
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@172cccb): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:14:08.084
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-26 12:14:08.107
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@9eee59): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-26 12:14:08.107
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf.ui 2 0 2020-10-26 12:14:19.540
+!MESSAGE Unable to locate file: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\004_1_REG\335STER_BUTTON_CONTROL\Utilities\STM32F4-Discovery\stm32f4_discovery_audio_codec.c
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-27 14:11:24.318
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@1b49c16): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-27 14:11:24.318
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2020-10-27 14:11:24.338
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.concurrent.RequestMonitor@1ba4773): Status ERROR: org.eclipse.cdt.dsf code=10001  null children=[Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Connection is shut down null]' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2020-10-27 14:11:24.338
+!MESSAGE Connection is shut down
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:21:09.737
+!MESSAGE Indexed '003_1_REGİSTER_BUTTON_CONTROL' (38 sources, 82 headers) in 1,59 sec: 9.721 declarations; 33.096 references; 1 unresolved inclusions; 34 syntax errors; 0 unresolved names (%0)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:21:37.964
+!MESSAGE Indexed '003_0_STDP_BUTTON_CONTROL' (38 sources, 82 headers) in 1,42 sec: 9.721 declarations; 33.040 references; 1 unresolved inclusions; 34 syntax errors; 0 unresolved names (%0)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:22:03.584
+!MESSAGE Indexed '003_2_STDP_LED_WITH_BUTTON' (38 sources, 82 headers) in 1,66 sec: 9.722 declarations; 33.109 references; 1 unresolved inclusions; 34 syntax errors; 0 unresolved names (%0)
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:30:40.108
+!MESSAGE Unloading product manager
+!SESSION 2020-10-27 14:30:43.464 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=tr_TR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:30:44.829
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:30:44.836
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:30:45.613
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:30:45.615
+!MESSAGE Workspace: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3
+
+!ENTRY org.eclipse.jface 2 0 2020-10-27 14:30:46.729
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-27 14:30:46.729
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@53363c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@82f1eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-10-27 14:30:50.046
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-10-27 14:30:50.069
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-27 14:30:50.329
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bedri'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.746
+!MESSAGE EWARM needs property 'com.atollic.truestudio.general.runtimelib.1453892104' fixed. Fixing to 'com.atollic.truestudio.ld.general.cclib.CCSmallCSmall'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.752
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.755
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.757
+!MESSAGE 003_4_HAL_BUTTON_CONTROL_LED needs property 'com.atollic.truestudio.general.runtimelib.485945934' fixed. Fixing to 'com.atollic.truestudio.ld.general.cclib.CCSmallCSmall'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.759
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.761
+!MESSAGE Failed to get device info (Debug) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.763
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.765
+!MESSAGE Failed to get device info (Debug) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.766
+!MESSAGE Failed to get device info (Debug) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.768
+!MESSAGE Failed to get device info (Debug) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.772
+!MESSAGE EWARM needs property 'com.atollic.truestudio.general.runtimelib.1698592012' fixed. Fixing to 'com.atollic.truestudio.ld.general.cclib.CCSmallCSmall'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.774
+!MESSAGE Failed to get device info (Release) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.776
+!MESSAGE Failed to get device info (Release) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.778
+!MESSAGE 003_4_HAL_BUTTON_CONTROL_LED needs property 'com.atollic.truestudio.general.runtimelib.405046865' fixed. Fixing to 'com.atollic.truestudio.ld.general.cclib.CCSmallCSmall'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.779
+!MESSAGE Failed to get device info (Release) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.781
+!MESSAGE Failed to get device info (Release) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.783
+!MESSAGE Failed to get device info (Release) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.784
+!MESSAGE Failed to get device info (Release) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.786
+!MESSAGE Failed to get device info (Release) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:37.788
+!MESSAGE Failed to get device info (Release) for project 003_4_HAL_BUTTON_CONTROL_LED
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.980
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.982
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.986
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.988
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.993
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.995
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.997
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:37.999
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:38.622
+!MESSAGE EWARM needs property 'com.atollic.truestudio.general.runtimelib.95804052' fixed. Fixing to 'com.atollic.truestudio.ld.general.cclib.CCSmallCSmall'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:38.624
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:38.627
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:38.629
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:32:38.631
+!MESSAGE Failed to get device info (Debug) for project EWARM
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:38.695
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:38.697
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:38.950
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:38.952
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:39.165
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:39.297
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:39.447
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:39.577
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:40.113
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:40.115
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:40.120
+!MESSAGE Failed to find device info
+
+!ENTRY com.atollic.truestudio.mbs 4 0 2020-10-27 14:32:40.122
+!MESSAGE Failed to find device info
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:33:02.682
+!MESSAGE Indexed '003_4_HAL_BUTTON_CONTROL_LED' (591 sources, 410 headers) in 20,9 sec: 47.737 declarations; 331.958 references; 19 unresolved inclusions; 407 syntax errors; 7.565 unresolved names (%2)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:33:04.113
+!MESSAGE Indexed 'EWARM' (19 sources, 36 headers) in 1,43 sec: 2.513 declarations; 15.292 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (%0)
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:36:37.309
+!MESSAGE Unloading product manager
+!SESSION 2020-10-27 14:42:03.087 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=tr_TR
+Framework arguments:  C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_3_HAL_BUTTON_CONTROL\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_3_HAL_BUTTON_CONTROL\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:42:04.397
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:42:04.403
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:42:05.158
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:42:05.160
+!MESSAGE Workspace: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3
+
+!ENTRY org.eclipse.jface 2 0 2020-10-27 14:42:06.206
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-27 14:42:06.206
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@53363c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@82f1eb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-10-27 14:42:09.373
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-10-27 14:42:09.394
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-27 14:42:09.620
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bedri'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:42:10.680
+!MESSAGE 003_3_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.2055297410' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:42:10.684
+!MESSAGE 003_3_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.973599156' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:42:10.686
+!MESSAGE 003_3_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.1794857465' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:42:11.001
+!MESSAGE 003_3_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.1550683324' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:42:11.003
+!MESSAGE 003_3_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.1179672999' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:42:11.005
+!MESSAGE 003_3_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.145763015' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:42:13.822
+!MESSAGE Indexed '003_3_HAL_BUTTON_CONTROL' (20 sources, 52 headers) in 2,73 sec: 5.267 declarations; 18.121 references; 19 unresolved inclusions; 278 syntax errors; 3.436 unresolved names (%13)
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:44:12.629
+!MESSAGE Unloading product manager
+!SESSION 2020-10-27 14:51:22.239 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=tr_TR
+Framework arguments:  C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_2_HAL_BUTTON_CONTROL\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_2_HAL_BUTTON_CONTROL\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:51:23.571
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:51:23.577
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY org.eclipse.core.resources 4 567 2020-10-27 14:51:23.773
+!MESSAGE Workspace restored, but some problems occurred.
+!SUBENTRY 1 org.eclipse.core.resources 4 567 2020-10-27 14:51:23.773
+!MESSAGE Could not read metadata for '003_3_HAL_BUTTON_CONTROL'.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: The project description file (.project) for '003_3_HAL_BUTTON_CONTROL' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.read(FileSystemResourceManager.java:907)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:904)
+	at org.eclipse.core.internal.resources.SaveManager.restoreMetaInfo(SaveManager.java:884)
+	at org.eclipse.core.internal.resources.SaveManager.restore(SaveManager.java:735)
+	at org.eclipse.core.internal.resources.SaveManager.startup(SaveManager.java:1587)
+	at org.eclipse.core.internal.resources.Workspace.startup(Workspace.java:2399)
+	at org.eclipse.core.internal.resources.Workspace.open(Workspace.java:2156)
+	at org.eclipse.core.resources.ResourcesPlugin.start(ResourcesPlugin.java:464)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:774)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$3.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.startActivator(BundleContextImpl.java:767)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.start(BundleContextImpl.java:724)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.startWorker0(EquinoxBundle.java:932)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.startWorker(EquinoxBundle.java:309)
+	at org.eclipse.osgi.container.Module.doStart(Module.java:581)
+	at org.eclipse.osgi.container.Module.start(Module.java:449)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:470)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:529)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:325)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:36)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:419)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:372)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:364)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:161)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:144)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+!SUBENTRY 2 org.eclipse.core.resources 4 567 2020-10-27 14:51:24.094
+!MESSAGE The project description file (.project) for '003_3_HAL_BUTTON_CONTROL' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:51:24.700
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:51:24.702
+!MESSAGE Workspace: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3
+
+!ENTRY org.eclipse.jface 2 0 2020-10-27 14:51:25.755
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-27 14:51:25.755
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@16f6ca9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@496c2d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-10-27 14:51:28.935
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-10-27 14:51:28.956
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-27 14:51:29.189
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bedri'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:51:30.298
+!MESSAGE 003_2_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.302064304' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:51:30.302
+!MESSAGE 003_2_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.1531789927' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:51:30.304
+!MESSAGE 003_2_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.1386378173' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:51:30.693
+!MESSAGE 003_2_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.506825289' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:51:30.696
+!MESSAGE 003_2_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.1592775623' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:51:30.698
+!MESSAGE 003_2_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.2056175238' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:51:33.847
+!MESSAGE Indexed '003_2_HAL_BUTTON_CONTROL' (20 sources, 96 headers) in 3,07 sec: 7.000 declarations; 23.188 references; 8 unresolved inclusions; 281 syntax errors; 1.094 unresolved names (%3,5)
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:51:54.939
+!MESSAGE Indexed '003_4_HAL_BUTTON_CONTROL' (0 sources, 0 headers) in 0,001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (%0)
+
+!ENTRY org.eclipse.core.resources 4 567 2020-10-27 14:52:17.850
+!MESSAGE The project description file (.project) for '003_3_HAL_BUTTON_CONTROL' is missing.  This file contains important information about the project.  The project will not function properly until this file is restored.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:56:10.779
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.1938103534' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:56:10.782
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.546988502' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:56:10.784
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.23303900' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:56:10.809
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.742572343' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:56:10.812
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.919504164' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:56:10.813
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.364802673' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY org.eclipse.cdt.core 1 0 2020-10-27 14:56:24.726
+!MESSAGE Indexed '003_4_HAL_BUTTON_CONTROL' (513 sources, 290 headers) in 13,8 sec: 36.089 declarations; 320.176 references; 26 unresolved inclusions; 280 syntax errors; 6.510 unresolved names (%1,8)
+
+!ENTRY org.eclipse.ui.ide 4 4 2020-10-27 14:57:02.215
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 2 1 2020-10-27 14:57:02.218
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2020-10-27 14:57:02.218
+!MESSAGE The project description file (.project) for '003_4_HAL_BUTTON_CONTROL' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:57:02.317
+!MESSAGE Unloading product manager
+!SESSION 2020-10-27 14:58:23.394 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=tr_TR
+Framework arguments:  C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_4_HAL_BUTTON_CONTROL\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86 C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_4_HAL_BUTTON_CONTROL\.cproject
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:58:24.721
+!MESSAGE Loading product manager
+
+!ENTRY com.atollic.truestudio.productmanager 1 0 2020-10-27 14:58:24.728
+!MESSAGE OS info: Windows 10, 10.0, x86
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:58:25.532
+!MESSAGE Target: STM32, Version: 9.3.0, Build date: 20190212-0734, Installation dir: /D:/atollic/TrueSTUDIO for STM32 9.3.0/ide/
+
+!ENTRY TrueSTUDIO 1 0 2020-10-27 14:58:25.533
+!MESSAGE Workspace: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3
+
+!ENTRY org.eclipse.jface 2 0 2020-10-27 14:58:26.586
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-10-27 14:58:26.586
+!MESSAGE A conflict occurred for ALT+CTRL+T:
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.EditPropertiesCommand,Show Properties,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1bb808f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+T,
+	ParameterizedCommand(Command(org.eclipse.tm.terminal.connector.local.command.launch,Open Local Terminal on Selection,
+		,
+		Category(org.eclipse.tm.terminal.view.ui.commands.category,Terminal Commands,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@163ada5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.atollic.truestudio.integration.processorexpert 0 0 2020-10-27 14:58:29.808
+!MESSAGE Atollic TrueSTUDIO Processor Expert integration is up.
+
+!ENTRY edu.hawaii.ics.csdl.jupiter 1 0 2020-10-27 14:58:29.839
+!MESSAGE Code Review is up.
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-10-27 14:58:30.116
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bedri'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:30.119
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.2087228948' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:30.125
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.1472498980' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:30.128
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.793148646' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:30.634
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.1593985922' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:30.635
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.839408671' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:30.637
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.2049514824' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:31.297
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.1520710011' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:31.299
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.1189036418' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:31.301
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.1589652785' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:31.322
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.general.runtimelib.720786208' fixed. Fixing to 'com.atollic.truestudio.ld.general.clib.small'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:31.324
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.mcu.1730465229' fixed. Fixing to 'STM32F407VG'.
+
+!ENTRY com.atollic.truestudio.mbs 2 0 2020-10-27 14:58:31.326
+!MESSAGE 003_4_HAL_BUTTON_CONTROL needs property 'com.atollic.truestudio.toolchain_options.vendor.1773246093' fixed. Fixing to 'STMicroelectronics'.
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 104 2020-10-27 15:07:38.848
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_4_HAL_BUTTON_CONTROL\Debug\003_4_HAL_BUTTON_CONTROL.elf not found
+	at org.eclipse.cdt.dsf.gdb.launching.LaunchUtils.verifyProgramPath(LaunchUtils.java:126)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.checkBinaryDetails(GdbLaunchDelegate.java:293)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:138)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:102)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:91)
+	at com.atollic.hardwaredebug.launch.DSFDelegate.launch(DSFDelegate.java:59)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 104 2020-10-27 15:07:38.848
+!MESSAGE C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_4_HAL_BUTTON_CONTROL\Debug\003_4_HAL_BUTTON_CONTROL.elf not found
+!STACK 0
+java.io.FileNotFoundException: C:\Users\bedri\Atollic\TrueSTUDIO\STM32_workspace_9.3\003_4_HAL_BUTTON_CONTROL\Debug\003_4_HAL_BUTTON_CONTROL.elf not found
+	at org.eclipse.cdt.dsf.gdb.launching.LaunchUtils.verifyProgramPath(LaunchUtils.java:126)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.checkBinaryDetails(GdbLaunchDelegate.java:293)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugSession(GdbLaunchDelegate.java:138)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launchDebugger(GdbLaunchDelegate.java:102)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.launch(GdbLaunchDelegate.java:91)
+	at com.atollic.hardwaredebug.launch.DSFDelegate.launch(DSFDelegate.java:59)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.core.net 4 0 2020-10-27 15:08:29.422
+!MESSAGE WinHttp.DetectAutoProxyConfigUrl for wpad failed with error 'Proxy Otomatik Yapýlandýrma URL'si bulunamadý.
+' #12180.
+
+!ENTRY org.eclipse.core.net 4 0 2020-10-27 20:54:29.948
+!MESSAGE WinHttp.GetProxyForUrl for pac failed with error 'Proxy otomatik yapýlandýrma komut dosyasý karþýdan yüklenemedi
+' #12167.
